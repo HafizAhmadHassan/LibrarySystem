@@ -1,4 +1,5 @@
 # Library System
+*Created: 2019-12-19*
 
 A **C++ library management system** built during a computer programming course.
 
